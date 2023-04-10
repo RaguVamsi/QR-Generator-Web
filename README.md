@@ -5,14 +5,15 @@ The QR Generator web project is a web-based tool that generates Quick Response (
 This tool is for anyone who needs to create QR codes for their personal or business use, such as marketers, event organizers, business owners, or individuals looking to share information in a convenient way
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/230885073-22fea0de-9bf8-420b-af78-b773a532ba2f.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/230885264-f6d8971e-4dc2-4337-a710-d0cff68300d4.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/230885385-e2fc1a75-4434-441c-83dc-c9846350a398.png)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo] (![GENERATOR](https://user-images.githubusercontent.com/107539107/230885876-78d88750-fe72-4c00-9d2c-f2df4960aeec.png)
+)
 
 
 ## Acknowledgements
